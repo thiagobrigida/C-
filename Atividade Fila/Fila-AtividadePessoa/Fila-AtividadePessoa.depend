@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1729862400 source:/home/alunos/Downloads/Fila-AtividadePessoa/main.cpp
+	"Pessoa.h"
+	"Cidade.h"
+	"Estado.h"
+
+1729859414 /home/alunos/Downloads/Fila-AtividadePessoa/Pessoa.h
+	<iostream>
+
+1729859414 /home/alunos/Downloads/Fila-AtividadePessoa/Cidade.h
+	<iostream>
+
+1729859414 source:/home/alunos/Downloads/Fila-AtividadePessoa/Pessoa.cpp
+	"Pessoa.h"
+
+1729861933 source:/home/alunos/Downloads/Fila-AtividadePessoa/Cidade.cpp
+	"Cidade.h"
+
+1729862748 source:/home/alunos/Downloads/Fila-AtividadePessoa/Estado.cpp
+	"Estado.h"
+
+1729862730 /home/alunos/Downloads/Fila-AtividadePessoa/Estado.h
+	<iostream>
+

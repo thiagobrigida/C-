@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1724417929 source:/home/alunos/Downloads/aula_classe/main.cpp
+	"Ordena.h"
+
+1724418697 /home/alunos/Downloads/aula_classe/Ordena.h
+	<iostream>
+
+1724418697 source:/home/alunos/Downloads/aula_classe/Ordena.cpp
+	"Ordena.h"
+
