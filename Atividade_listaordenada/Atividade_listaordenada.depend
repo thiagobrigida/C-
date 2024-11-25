@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732571361 source:c:\users\thiag\onedrive\documentos\thiago\escola\atividade_listaordenada\site.cpp
+	"Site.h"
+
+1732571361 c:\users\thiag\onedrive\documentos\thiago\escola\atividade_listaordenada\site.h
+	<iostream>
+
+1732571543 source:c:\users\thiag\onedrive\documentos\thiago\escola\atividade_listaordenada\main.cpp
+	"Site.h"
+
