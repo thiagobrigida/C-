@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1736516407 source:/home/alunos/Downloads/listacircular/main.cpp
+	<iostream>
+	<unistd.h>
+	"Lista.h"
+
+1736515476 /home/alunos/Downloads/listacircular/Lista.h
+	<iostream>
+
